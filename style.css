@@ -1,0 +1,16 @@
+body {
+  background-color: blueviolet;
+}
+
+ul li {
+  list-style: none;
+}
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+
+img {
+  border-radius: 50px;
+}
